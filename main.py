@@ -83,7 +83,7 @@ def start_application():
         root = tk.Tk()
 
     root = tk.Tk()
-    root.title("Xampp WSL")
+    root.title("ServiceHUB - WSL")
     root.resizable(False, False)
     root.configure(bg="#EFEFEF", padx=10, pady=10, borderwidth=0, highlightthickness=0, relief='ridge', highlightbackground="#EFEFEF", highlightcolor="#EFEFEF", bd=0, cursor="arrow", takefocus=False)
 
